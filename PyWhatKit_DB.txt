@@ -1,0 +1,15 @@
+Date: 3/12/2022
+Time: 23:18
+Phone Number: +13144521750
+Message: first message with pywhatkit
+--------------------
+Date: 3/12/2022
+Time: 23:19
+Phone Number: +13144521750
+Message: first message with pywhatkit
+--------------------
+Date: 3/12/2022
+Time: 23:20
+Phone Number: +13144521750
+Message: 2nd with pywhatkit
+--------------------
